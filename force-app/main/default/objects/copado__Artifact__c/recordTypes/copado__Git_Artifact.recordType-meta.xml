@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RecordType xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>copado__Git_Artifact</fullName>
+    <active>true</active>
+    <description>Version Control System centric package</description>
+    <label>Git Package</label>
+</RecordType>
