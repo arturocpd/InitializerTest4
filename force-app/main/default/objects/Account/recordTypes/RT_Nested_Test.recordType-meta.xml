@@ -19,6 +19,32 @@
         </values>
     </picklistValues>
     <picklistValues>
+        <picklist>Active__c</picklist>
+        <values>
+            <fullName>No</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Yes</fullName>
+            <default>false</default>
+        </values>
+    </picklistValues>
+    <picklistValues>
+        <picklist>CustomerPriority__c</picklist>
+        <values>
+            <fullName>High</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Low</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Medium</fullName>
+            <default>false</default>
+        </values>
+    </picklistValues>
+    <picklistValues>
         <picklist>Industry</picklist>
         <values>
             <fullName>Agriculture</fullName>
@@ -150,6 +176,17 @@
         </values>
     </picklistValues>
     <picklistValues>
+        <picklist>Nested_Test_RT__c</picklist>
+        <values>
+            <fullName>Destructive1</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Destructive2</fullName>
+            <default>false</default>
+        </values>
+    </picklistValues>
+    <picklistValues>
         <picklist>Ownership</picklist>
         <values>
             <fullName>Other</fullName>
@@ -169,6 +206,45 @@
         </values>
     </picklistValues>
     <picklistValues>
+        <picklist>PA_Test_Field__c</picklist>
+        <values>
+            <fullName>PA Fix</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>PLUS 1500 %280597%29</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Test PA</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Value 1</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Value 2</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Value 4</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Value3</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Value5</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>new</fullName>
+            <default>false</default>
+        </values>
+    </picklistValues>
+    <picklistValues>
         <picklist>Rating</picklist>
         <values>
             <fullName>Cold</fullName>
@@ -180,6 +256,44 @@
         </values>
         <values>
             <fullName>Warm</fullName>
+            <default>false</default>
+        </values>
+    </picklistValues>
+    <picklistValues>
+        <picklist>SLA__c</picklist>
+        <values>
+            <fullName>Bronze</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Gold</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Iron</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Platinum</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Silver</fullName>
+            <default>false</default>
+        </values>
+    </picklistValues>
+    <picklistValues>
+        <picklist>SubTrade_Channel__c</picklist>
+        <values>
+            <fullName>001 - Bakery</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>020</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>021 - Hotell</fullName>
             <default>false</default>
         </values>
     </picklistValues>
@@ -211,6 +325,21 @@
         </values>
         <values>
             <fullName>Technology Partner</fullName>
+            <default>false</default>
+        </values>
+    </picklistValues>
+    <picklistValues>
+        <picklist>UpsellOpportunity__c</picklist>
+        <values>
+            <fullName>Maybe</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>No</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Yes</fullName>
             <default>false</default>
         </values>
     </picklistValues>

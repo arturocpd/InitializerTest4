@@ -4,6 +4,17 @@
     <active>true</active>
     <label>Contact RT1</label>
     <picklistValues>
+        <picklist>GoodBad__c</picklist>
+        <values>
+            <fullName>Bad</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Good</fullName>
+            <default>false</default>
+        </values>
+    </picklistValues>
+    <picklistValues>
         <picklist>LeadSource</picklist>
         <values>
             <fullName>Other</fullName>
@@ -23,6 +34,21 @@
         </values>
         <values>
             <fullName>Web</fullName>
+            <default>false</default>
+        </values>
+    </picklistValues>
+    <picklistValues>
+        <picklist>Level__c</picklist>
+        <values>
+            <fullName>Primary</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Secondary</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Tertiary</fullName>
             <default>false</default>
         </values>
     </picklistValues>

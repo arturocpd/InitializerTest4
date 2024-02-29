@@ -5,6 +5,17 @@
     <businessProcess>Comercial Lead Process</businessProcess>
     <label>Comercial Lead Record Type</label>
     <picklistValues>
+        <picklist>GoodBad__c</picklist>
+        <values>
+            <fullName>Bad</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Good</fullName>
+            <default>false</default>
+        </values>
+    </picklistValues>
+    <picklistValues>
         <picklist>Industry</picklist>
         <values>
             <fullName>Agriculture</fullName>
@@ -174,6 +185,32 @@
         </values>
     </picklistValues>
     <picklistValues>
+        <picklist>Primary__c</picklist>
+        <values>
+            <fullName>No</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Yes</fullName>
+            <default>false</default>
+        </values>
+    </picklistValues>
+    <picklistValues>
+        <picklist>ProductInterest__c</picklist>
+        <values>
+            <fullName>GC1000 series</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>GC3000 series</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>GC5000 series</fullName>
+            <default>false</default>
+        </values>
+    </picklistValues>
+    <picklistValues>
         <picklist>Rating</picklist>
         <values>
             <fullName>Cold</fullName>
@@ -185,6 +222,21 @@
         </values>
         <values>
             <fullName>Warm</fullName>
+            <default>false</default>
+        </values>
+    </picklistValues>
+    <picklistValues>
+        <picklist>Test_Nested_RT__c</picklist>
+        <values>
+            <fullName>Test1</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Test2</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Test3</fullName>
             <default>false</default>
         </values>
     </picklistValues>

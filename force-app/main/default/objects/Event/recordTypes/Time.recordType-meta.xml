@@ -4,6 +4,52 @@
     <active>true</active>
     <label>Time</label>
     <picklistValues>
+        <picklist>AAATask__c</picklist>
+        <values>
+            <fullName>1</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>2</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>3</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>4</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>5</fullName>
+            <default>false</default>
+        </values>
+    </picklistValues>
+    <picklistValues>
+        <picklist>Next_Time__c</picklist>
+        <values>
+            <fullName>Friday</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Juernes</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Saturday</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Thursday</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Wednesday</fullName>
+            <default>false</default>
+        </values>
+    </picklistValues>
+    <picklistValues>
         <picklist>Subject</picklist>
         <values>
             <fullName>Call</fullName>
@@ -23,6 +69,25 @@
         </values>
         <values>
             <fullName>Send Letter%2FQuote</fullName>
+            <default>false</default>
+        </values>
+    </picklistValues>
+    <picklistValues>
+        <picklist>Time__c</picklist>
+        <values>
+            <fullName>Later</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Now</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Tomorrow</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Yesterday</fullName>
             <default>false</default>
         </values>
     </picklistValues>

@@ -4,4 +4,31 @@
     <active>true</active>
     <description>Test a generic web application</description>
     <label>Generic Web Application</label>
+    <picklistValues>
+        <picklist>copado__Last_Status__c</picklist>
+        <values>
+            <fullName>Completed successfully</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Completed with errors</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>In Progress</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Provider Failure</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Queued</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Starting</fullName>
+            <default>false</default>
+        </values>
+    </picklistValues>
 </RecordType>
